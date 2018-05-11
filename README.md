@@ -3,7 +3,7 @@
 ![Logo](Logo.jpg)
 
 Hi my name is Jacob and this is a website
-
+## Q/A
 ##### What does this website do
 Nothing really
 
@@ -40,3 +40,5 @@ well sure but since you're typing this to yourself, it's kinda a strange questio
 ##### that looks terrible
 yes I know
 
+## Description
+This website we supposed to be a showcase and tool for building levels. You should be able to see that it is not. Althoug it does have all the pages it would use. The main page would show a samll assortment of player levels, while Browse would show all of them. On the other hand Create would have a tool for players to create their own levels. That would pretty much be it.
