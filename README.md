@@ -1,5 +1,7 @@
 # Phase-4
 
+![Logo](Logo.jpg)
+
 Hi my name is Jacob and this is a website
 
 ##### What does this website do
